@@ -1,7 +1,7 @@
 # Abdul Wasay Sardar
 
 <p align="center">
-  <a href="https://Abdul Wasaybrio.vercel.app">
+  <a href="https://wasay530.github.io/abdul-wasay/">
     <img src="/assets/favicon/android-chrome-192x192.png" width="70" alt="Portfolio's favicon.">
   </a>
 </p>
@@ -17,13 +17,13 @@
 </div>
 
 <p align="center">
-  <a href="https:/github.com/Abdul Wasay Sardar">🐱 /Abdul Wasay Sardar</a>
+  <a href="https://wasay530.github.io/abdul-wasay/">🐱 /Abdul Wasay Sardar</a>
 </p>
 <p align="center">
-  <a href="https://karamazfolio.xyz/">📍 Portfolio</a>
+  <a href="https://wasay530.github.io/abdul-wasay/">📍 Portfolio</a>
 </p>
 <p align="center">
-  <a href="https://karamablog.xyz">☕ Blog</a>
+  <a href="https://wasay530.github.io/abdul-wasay/">☕ Blog</a>
 </p>
 
 ---
@@ -176,10 +176,3 @@ God save our [MIT License](LICENSE.txt) and its infinite benevolence! It burns! 
 <br />
 
 ---
-
-<h1 align="center">
-  <a href="https://karamazfolio.xyz/"><img src="https://raw.githubusercontent.com/Abdul Wasay Sardar/JuditKaramazfolio/a7b1825e33711948f51e53e249751761e1779f56/public/karamaBrand.png" width="80" height="80" alt="Original Karama logo asset.">
-</h1>
-<h2 align="center">
-  <a href="https://www.buymeacoffee.com/Abdul Wasay Sardar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 197px !important;" ></a>
-</h2>
