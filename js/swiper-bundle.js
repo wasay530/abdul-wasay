@@ -3,11 +3,11 @@
  * Most modern mobile touch slider and framework with hardware accelerated transitions
  * https://swiperjs.com
  *
- * Copyright 2014-2021 Vladimir Kharlampidi
+ * Copyright 2014-2025 Abdul Wasay Sardar
  *
  * Released under the MIT License
  *
- * Released on: April 23, 2021
+ * Released on: April 23, 2025
  */
 
 !(function (e, t) {
