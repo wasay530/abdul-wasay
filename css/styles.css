@@ -451,16 +451,16 @@ img {
   width: 100%;
 }
 .skills-container .skills-matlab {
-  width: 90%;
+  width: 100%;
 }
 .skills-container .skills-latex {
-  width: 90%;
+  width: 100%;
 }
 .skills-container .skills-adobe {
-  width: 90%;
+  width: 100%;
 }
 .skills-container .skills-imagej {
-  width: 90%;
+  width: 100%;
 }
 .skills-container .skills-office {
   width: 100%;
@@ -472,7 +472,7 @@ img {
   width: 100%;
 }
 .skills-container .skills-mentoring {
-  width: 95%;
+  width: 100%;
 }
 .skills-container .skills-spanish {
   width: 100%;
@@ -481,13 +481,13 @@ img {
   width: 100%;
 }
 .skills-container .skills-english {
-  width: 90%;
+  width: 100%;
 }
 .skills-container .skills-dutch {
-  width: 60%;
+  width: 100%;
 }
 .skills-container .skills-japanese {
-  width: 40%;
+  width: 100%;
 }
 
 /* Experience section */
