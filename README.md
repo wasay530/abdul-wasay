@@ -163,11 +163,6 @@ As you surely know by now, that's only part of the process; eventually, we will 
 
 For the past, present, and future moments, `thank you`. You are an extremely beautiful human being.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdul Wasay Sardar/InsightsFromJuniorToFutureSeniors/main/images/lemrhali-logo.png" width="140" alt="Original Lemrhali Entreprises logo."
-    style="filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, .7));">
-</p>
-
 ---
 
 # 🏛 License & Copyright
